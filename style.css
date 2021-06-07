@@ -1,0 +1,25 @@
+* {
+  font-family: sans-serif;
+  font-weight: 600;
+  margin: 0;
+  background-color: black;
+  color: #999;
+}
+
+h1 {
+  color: black;
+  font-size: 8vw;
+  background-color: white;
+}
+
+header {
+  height: 100vh;
+  width: 100vw;
+  background-color: #6C89A8;
+  background-image: url("cover.jpg");
+  filter: grayscale() contrast(9000%);
+}
+
+.cont {
+  margin: 10vh 35vw;
+}
